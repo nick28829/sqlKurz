@@ -16,5 +16,7 @@
 - PRIMARY KEY nutzt Feld als Primärschlüssel
 -- zusammengesetzter PK mit PRIMARY KEY(Feld1, Feld2)
 ## Tabellen erstellen
-CREATE DATABASE
+CREATE DATABASE    
 CREATE TABLE
+## Vergleichsoperatoren
+=, <, >, <=,>=, <>
