@@ -1,1 +1,3 @@
 # Funktionen zum Editieren
+- INSERT INTO ... 
+- SELECT
