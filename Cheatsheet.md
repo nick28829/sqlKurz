@@ -1,0 +1,16 @@
+# CLI Kommandos
+- help/h
+- quit/q/exit
+- status
+- js wechselt zu JS-Modus
+- py wechselt zu PYthin-Modus
+- sql wechselt zu SQL Modus
+- connect verbindet zu MySQL-Server
+- reconnect erneute Verbindung zu Server
+- use gibt die Datenbank(Schema) an, die genutzt werden soll
+- source führt Skript aus
+- warnings zeigt Warnungen an, die durch ein bestimmtes Statement hervorgerufen werden
+- nowarnings unterdrückt Warnungen
+- history
+- rehash dient dem manuellen Bearbeiten des Autovervollständigungscaches
+- option durchsucht und editiert die MySQL-Shell Konfiguration
